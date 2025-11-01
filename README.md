@@ -1,6 +1,7 @@
-<h1 align="center">สวัสดีค่ะ! 👋 ฉันคือ <span style="color:#58a6ff;">TheKanjanaporn</span></h1>
+<h1 align="center">สวัสค่ะ! 👋 ฉันคือ <span style="color:#58a6ff;">TheKanjanaporn</span></h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🚀+Web+Developer+%7C+Data+Science%0A💻+KMUTNB+IT+Student%0A✨+รักการเรียนรู้+และ+พัฒนาตัวเอง!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🚀+Web+Developer+%7C+DataScience;💻+KMUTNB+IT+Student;✨+รักการเรียนรู้+และ+พัฒนาตนเอง!" alt="Typing SVG" />
 </p>
 
 ## 🧑‍💻 เกี่ยวกับฉัน
