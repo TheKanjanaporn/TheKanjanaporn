@@ -55,9 +55,13 @@
 ## 📊 สถิติ GitHub ของผม
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParaDox8k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParaDox8k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160px"/>
+  <img src="https://skillicons.dev/icons?i=html,css,python,vscode,github,figma,adobe,canva,arduino" alt="skills" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+</p>
+
 
 ---
 
