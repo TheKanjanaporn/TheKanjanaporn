@@ -47,7 +47,7 @@
 ## 🧰 เทคโนโลยีและเครื่องมือที่ใช้
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,typescript,react,nextjs,svelte,nodejs,java,html,css,postman,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,github,vscode,figma,adobe,canva&perline=6" alt="tools" />
 </p>
 
 ---
